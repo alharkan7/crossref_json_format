@@ -1,0 +1,2301 @@
+{
+  "BreakdownsObject.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "DateAndVersion.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "DateParts.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Funder.alt-names": [
+    "string"
+  ],
+  "Funder.replaced-by": [
+    "string"
+  ],
+  "Funder.replaces": [
+    "string"
+  ],
+  "Funder.tokens": [
+    "string"
+  ],
+  "FunderFull.alt-names": [
+    "string"
+  ],
+  "FunderFull.descendants": [
+    "string"
+  ],
+  "FunderFull.hierarchy-names": "string",
+  "FunderFull.replaced-by": [
+    "string"
+  ],
+  "FunderFull.replaces": [
+    "string"
+  ],
+  "FunderFull.tokens": [
+    "string"
+  ],
+  "FunderMessage.alt-names": [
+    "string"
+  ],
+  "FunderMessage.descendants": [
+    "string"
+  ],
+  "FunderMessage.hierarchy-names": "string",
+  "FunderMessage.message.alt-names": [
+    "string"
+  ],
+  "FunderMessage.message.descendants": [
+    "string"
+  ],
+  "FunderMessage.message.hierarchy-names": "string",
+  "FunderMessage.message.replaced-by": [
+    "string"
+  ],
+  "FunderMessage.message.replaces": [
+    "string"
+  ],
+  "FunderMessage.message.tokens": [
+    "string"
+  ],
+  "FunderMessage.replaced-by": [
+    "string"
+  ],
+  "FunderMessage.replaces": [
+    "string"
+  ],
+  "FunderMessage.tokens": [
+    "string"
+  ],
+  "Funders.alt-names": [
+    "string"
+  ],
+  "Funders.items.alt-names": [
+    "string"
+  ],
+  "Funders.items.replaced-by": [
+    "string"
+  ],
+  "Funders.items.replaces": [
+    "string"
+  ],
+  "Funders.items.tokens": [
+    "string"
+  ],
+  "Funders.replaced-by": [
+    "string"
+  ],
+  "Funders.replaces": [
+    "string"
+  ],
+  "Funders.tokens": [
+    "string"
+  ],
+  "FundersMessage.alt-names": [
+    "string"
+  ],
+  "FundersMessage.items.alt-names": [
+    "string"
+  ],
+  "FundersMessage.items.replaced-by": [
+    "string"
+  ],
+  "FundersMessage.items.replaces": [
+    "string"
+  ],
+  "FundersMessage.items.tokens": [
+    "string"
+  ],
+  "FundersMessage.message.alt-names": [
+    "string"
+  ],
+  "FundersMessage.message.items.alt-names": [
+    "string"
+  ],
+  "FundersMessage.message.items.replaced-by": [
+    "string"
+  ],
+  "FundersMessage.message.items.replaces": [
+    "string"
+  ],
+  "FundersMessage.message.items.tokens": [
+    "string"
+  ],
+  "FundersMessage.message.replaced-by": [
+    "string"
+  ],
+  "FundersMessage.message.replaces": [
+    "string"
+  ],
+  "FundersMessage.message.tokens": [
+    "string"
+  ],
+  "FundersMessage.replaced-by": [
+    "string"
+  ],
+  "FundersMessage.replaces": [
+    "string"
+  ],
+  "FundersMessage.tokens": [
+    "string"
+  ],
+  "Journal.ISSN": [
+    "string"
+  ],
+  "Journal.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journal.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journal.subjects": [
+    "string"
+  ],
+  "JournalMessage.ISSN": [
+    "string"
+  ],
+  "JournalMessage.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalMessage.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalMessage.message.ISSN": [
+    "string"
+  ],
+  "JournalMessage.message.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalMessage.message.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalMessage.message.subjects": [
+    "string"
+  ],
+  "JournalMessage.subjects": [
+    "string"
+  ],
+  "Journals.ISSN": [
+    "string"
+  ],
+  "Journals.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journals.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journals.items.ISSN": [
+    "string"
+  ],
+  "Journals.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journals.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Journals.items.subjects": [
+    "string"
+  ],
+  "Journals.subjects": [
+    "string"
+  ],
+  "JournalsMessage.ISSN": [
+    "string"
+  ],
+  "JournalsMessage.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.items.ISSN": [
+    "string"
+  ],
+  "JournalsMessage.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.items.subjects": [
+    "string"
+  ],
+  "JournalsMessage.message.ISSN": [
+    "string"
+  ],
+  "JournalsMessage.message.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.message.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.message.items.ISSN": [
+    "string"
+  ],
+  "JournalsMessage.message.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.message.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "JournalsMessage.message.items.subjects": [
+    "string"
+  ],
+  "JournalsMessage.message.subjects": [
+    "string"
+  ],
+  "JournalsMessage.subjects": [
+    "string"
+  ],
+  "Member.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Member.counts-type.all": "integer",
+  "Member.counts-type.backfile": "integer",
+  "Member.counts-type.current": "integer",
+  "Member.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Member.names": [
+    "string"
+  ],
+  "Member.prefixes": [
+    "string"
+  ],
+  "Member.tokens": [
+    "string"
+  ],
+  "MemberCountsType.all": "integer",
+  "MemberCountsType.backfile": "integer",
+  "MemberCountsType.current": "integer",
+  "MemberMessage.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MemberMessage.counts-type.all": "integer",
+  "MemberMessage.counts-type.backfile": "integer",
+  "MemberMessage.counts-type.current": "integer",
+  "MemberMessage.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MemberMessage.message.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MemberMessage.message.counts-type.all": "integer",
+  "MemberMessage.message.counts-type.backfile": "integer",
+  "MemberMessage.message.counts-type.current": "integer",
+  "MemberMessage.message.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MemberMessage.message.names": [
+    "string"
+  ],
+  "MemberMessage.message.prefixes": [
+    "string"
+  ],
+  "MemberMessage.message.tokens": [
+    "string"
+  ],
+  "MemberMessage.names": [
+    "string"
+  ],
+  "MemberMessage.prefixes": [
+    "string"
+  ],
+  "MemberMessage.tokens": [
+    "string"
+  ],
+  "Members.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Members.counts-type.all": "integer",
+  "Members.counts-type.backfile": "integer",
+  "Members.counts-type.current": "integer",
+  "Members.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Members.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Members.items.counts-type.all": "integer",
+  "Members.items.counts-type.backfile": "integer",
+  "Members.items.counts-type.current": "integer",
+  "Members.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "Members.items.names": [
+    "string"
+  ],
+  "Members.items.prefixes": [
+    "string"
+  ],
+  "Members.items.tokens": [
+    "string"
+  ],
+  "Members.names": [
+    "string"
+  ],
+  "Members.prefixes": [
+    "string"
+  ],
+  "Members.tokens": [
+    "string"
+  ],
+  "MembersMessage.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.counts-type.all": "integer",
+  "MembersMessage.counts-type.backfile": "integer",
+  "MembersMessage.counts-type.current": "integer",
+  "MembersMessage.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.items.counts-type.all": "integer",
+  "MembersMessage.items.counts-type.backfile": "integer",
+  "MembersMessage.items.counts-type.current": "integer",
+  "MembersMessage.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.items.names": [
+    "string"
+  ],
+  "MembersMessage.items.prefixes": [
+    "string"
+  ],
+  "MembersMessage.items.tokens": [
+    "string"
+  ],
+  "MembersMessage.message.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.message.counts-type.all": "integer",
+  "MembersMessage.message.counts-type.backfile": "integer",
+  "MembersMessage.message.counts-type.current": "integer",
+  "MembersMessage.message.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.message.items.breakdowns.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.message.items.counts-type.all": "integer",
+  "MembersMessage.message.items.counts-type.backfile": "integer",
+  "MembersMessage.message.items.counts-type.current": "integer",
+  "MembersMessage.message.items.dois-by-issued-year": [
+    [
+      "integer"
+    ]
+  ],
+  "MembersMessage.message.items.names": [
+    "string"
+  ],
+  "MembersMessage.message.items.prefixes": [
+    "string"
+  ],
+  "MembersMessage.message.items.tokens": [
+    "string"
+  ],
+  "MembersMessage.message.names": [
+    "string"
+  ],
+  "MembersMessage.message.prefixes": [
+    "string"
+  ],
+  "MembersMessage.message.tokens": [
+    "string"
+  ],
+  "MembersMessage.names": [
+    "string"
+  ],
+  "MembersMessage.prefixes": [
+    "string"
+  ],
+  "MembersMessage.tokens": [
+    "string"
+  ],
+  "Work.ISBN": [
+    "string"
+  ],
+  "Work.ISSN": [
+    "string"
+  ],
+  "Work.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.acronym": [
+    "string"
+  ],
+  "Work.alternative-id": [
+    "string"
+  ],
+  "Work.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.archive": [
+    "string"
+  ],
+  "Work.award": [
+    "string"
+  ],
+  "Work.container-title": [
+    "string"
+  ],
+  "Work.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.content-domain.domain": [
+    "string"
+  ],
+  "Work.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.department": [
+    "string"
+  ],
+  "Work.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.domain": [
+    "string"
+  ],
+  "Work.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.funder.award": [
+    "string"
+  ],
+  "Work.group-title": [
+    "string"
+  ],
+  "Work.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.institution.acronym": [
+    "string"
+  ],
+  "Work.institution.department": [
+    "string"
+  ],
+  "Work.institution.place": [
+    "string"
+  ],
+  "Work.issn-type.value": [
+    "string"
+  ],
+  "Work.issue-title": [
+    "string"
+  ],
+  "Work.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.original-title": [
+    "string"
+  ],
+  "Work.place": [
+    "string"
+  ],
+  "Work.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.short-title": [
+    "string"
+  ],
+  "Work.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.subject": [
+    "string"
+  ],
+  "Work.subtitle": [
+    "string"
+  ],
+  "Work.title": [
+    "string"
+  ],
+  "Work.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Work.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkDomain.domain": [
+    "string"
+  ],
+  "WorkFreeToRead.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkFreeToRead.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkFreeToRead.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkFunder.award": [
+    "string"
+  ],
+  "WorkISSNType.value": [
+    "string"
+  ],
+  "WorkInstitution.acronym": [
+    "string"
+  ],
+  "WorkInstitution.department": [
+    "string"
+  ],
+  "WorkInstitution.place": [
+    "string"
+  ],
+  "WorkLicense.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkLicense.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.ISBN": [
+    "string"
+  ],
+  "WorkMessage.ISSN": [
+    "string"
+  ],
+  "WorkMessage.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.acronym": [
+    "string"
+  ],
+  "WorkMessage.alternative-id": [
+    "string"
+  ],
+  "WorkMessage.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.archive": [
+    "string"
+  ],
+  "WorkMessage.award": [
+    "string"
+  ],
+  "WorkMessage.container-title": [
+    "string"
+  ],
+  "WorkMessage.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.content-domain.domain": [
+    "string"
+  ],
+  "WorkMessage.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.department": [
+    "string"
+  ],
+  "WorkMessage.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.domain": [
+    "string"
+  ],
+  "WorkMessage.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.funder.award": [
+    "string"
+  ],
+  "WorkMessage.group-title": [
+    "string"
+  ],
+  "WorkMessage.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.institution.acronym": [
+    "string"
+  ],
+  "WorkMessage.institution.department": [
+    "string"
+  ],
+  "WorkMessage.institution.place": [
+    "string"
+  ],
+  "WorkMessage.issn-type.value": [
+    "string"
+  ],
+  "WorkMessage.issue-title": [
+    "string"
+  ],
+  "WorkMessage.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.ISBN": [
+    "string"
+  ],
+  "WorkMessage.message.ISSN": [
+    "string"
+  ],
+  "WorkMessage.message.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.acronym": [
+    "string"
+  ],
+  "WorkMessage.message.alternative-id": [
+    "string"
+  ],
+  "WorkMessage.message.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.archive": [
+    "string"
+  ],
+  "WorkMessage.message.award": [
+    "string"
+  ],
+  "WorkMessage.message.container-title": [
+    "string"
+  ],
+  "WorkMessage.message.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.content-domain.domain": [
+    "string"
+  ],
+  "WorkMessage.message.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.department": [
+    "string"
+  ],
+  "WorkMessage.message.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.domain": [
+    "string"
+  ],
+  "WorkMessage.message.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.funder.award": [
+    "string"
+  ],
+  "WorkMessage.message.group-title": [
+    "string"
+  ],
+  "WorkMessage.message.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.institution.acronym": [
+    "string"
+  ],
+  "WorkMessage.message.institution.department": [
+    "string"
+  ],
+  "WorkMessage.message.institution.place": [
+    "string"
+  ],
+  "WorkMessage.message.issn-type.value": [
+    "string"
+  ],
+  "WorkMessage.message.issue-title": [
+    "string"
+  ],
+  "WorkMessage.message.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.original-title": [
+    "string"
+  ],
+  "WorkMessage.message.place": [
+    "string"
+  ],
+  "WorkMessage.message.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.short-title": [
+    "string"
+  ],
+  "WorkMessage.message.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.subject": [
+    "string"
+  ],
+  "WorkMessage.message.subtitle": [
+    "string"
+  ],
+  "WorkMessage.message.title": [
+    "string"
+  ],
+  "WorkMessage.message.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.message.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.original-title": [
+    "string"
+  ],
+  "WorkMessage.place": [
+    "string"
+  ],
+  "WorkMessage.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.short-title": [
+    "string"
+  ],
+  "WorkMessage.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.subject": [
+    "string"
+  ],
+  "WorkMessage.subtitle": [
+    "string"
+  ],
+  "WorkMessage.title": [
+    "string"
+  ],
+  "WorkMessage.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkMessage.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkStandardsBody.acronym": [
+    "string"
+  ],
+  "WorkUpdate.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorkUpdate.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.ISBN": [
+    "string"
+  ],
+  "Works.ISSN": [
+    "string"
+  ],
+  "Works.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.acronym": [
+    "string"
+  ],
+  "Works.alternative-id": [
+    "string"
+  ],
+  "Works.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.archive": [
+    "string"
+  ],
+  "Works.award": [
+    "string"
+  ],
+  "Works.container-title": [
+    "string"
+  ],
+  "Works.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.content-domain.domain": [
+    "string"
+  ],
+  "Works.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.department": [
+    "string"
+  ],
+  "Works.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.domain": [
+    "string"
+  ],
+  "Works.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.funder.award": [
+    "string"
+  ],
+  "Works.group-title": [
+    "string"
+  ],
+  "Works.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.institution.acronym": [
+    "string"
+  ],
+  "Works.institution.department": [
+    "string"
+  ],
+  "Works.institution.place": [
+    "string"
+  ],
+  "Works.issn-type.value": [
+    "string"
+  ],
+  "Works.issue-title": [
+    "string"
+  ],
+  "Works.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.ISBN": [
+    "string"
+  ],
+  "Works.items.ISSN": [
+    "string"
+  ],
+  "Works.items.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.acronym": [
+    "string"
+  ],
+  "Works.items.alternative-id": [
+    "string"
+  ],
+  "Works.items.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.archive": [
+    "string"
+  ],
+  "Works.items.award": [
+    "string"
+  ],
+  "Works.items.container-title": [
+    "string"
+  ],
+  "Works.items.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.content-domain.domain": [
+    "string"
+  ],
+  "Works.items.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.department": [
+    "string"
+  ],
+  "Works.items.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.domain": [
+    "string"
+  ],
+  "Works.items.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.funder.award": [
+    "string"
+  ],
+  "Works.items.group-title": [
+    "string"
+  ],
+  "Works.items.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.institution.acronym": [
+    "string"
+  ],
+  "Works.items.institution.department": [
+    "string"
+  ],
+  "Works.items.institution.place": [
+    "string"
+  ],
+  "Works.items.issn-type.value": [
+    "string"
+  ],
+  "Works.items.issue-title": [
+    "string"
+  ],
+  "Works.items.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.original-title": [
+    "string"
+  ],
+  "Works.items.place": [
+    "string"
+  ],
+  "Works.items.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.short-title": [
+    "string"
+  ],
+  "Works.items.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.subject": [
+    "string"
+  ],
+  "Works.items.subtitle": [
+    "string"
+  ],
+  "Works.items.title": [
+    "string"
+  ],
+  "Works.items.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.items.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.original-title": [
+    "string"
+  ],
+  "Works.place": [
+    "string"
+  ],
+  "Works.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.short-title": [
+    "string"
+  ],
+  "Works.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.subject": [
+    "string"
+  ],
+  "Works.subtitle": [
+    "string"
+  ],
+  "Works.title": [
+    "string"
+  ],
+  "Works.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "Works.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.ISBN": [
+    "string"
+  ],
+  "WorksMessage.ISSN": [
+    "string"
+  ],
+  "WorksMessage.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.acronym": [
+    "string"
+  ],
+  "WorksMessage.alternative-id": [
+    "string"
+  ],
+  "WorksMessage.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.archive": [
+    "string"
+  ],
+  "WorksMessage.award": [
+    "string"
+  ],
+  "WorksMessage.container-title": [
+    "string"
+  ],
+  "WorksMessage.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.content-domain.domain": [
+    "string"
+  ],
+  "WorksMessage.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.department": [
+    "string"
+  ],
+  "WorksMessage.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.domain": [
+    "string"
+  ],
+  "WorksMessage.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.funder.award": [
+    "string"
+  ],
+  "WorksMessage.group-title": [
+    "string"
+  ],
+  "WorksMessage.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.institution.acronym": [
+    "string"
+  ],
+  "WorksMessage.institution.department": [
+    "string"
+  ],
+  "WorksMessage.institution.place": [
+    "string"
+  ],
+  "WorksMessage.issn-type.value": [
+    "string"
+  ],
+  "WorksMessage.issue-title": [
+    "string"
+  ],
+  "WorksMessage.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.ISBN": [
+    "string"
+  ],
+  "WorksMessage.items.ISSN": [
+    "string"
+  ],
+  "WorksMessage.items.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.acronym": [
+    "string"
+  ],
+  "WorksMessage.items.alternative-id": [
+    "string"
+  ],
+  "WorksMessage.items.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.archive": [
+    "string"
+  ],
+  "WorksMessage.items.award": [
+    "string"
+  ],
+  "WorksMessage.items.container-title": [
+    "string"
+  ],
+  "WorksMessage.items.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.content-domain.domain": [
+    "string"
+  ],
+  "WorksMessage.items.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.department": [
+    "string"
+  ],
+  "WorksMessage.items.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.domain": [
+    "string"
+  ],
+  "WorksMessage.items.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.funder.award": [
+    "string"
+  ],
+  "WorksMessage.items.group-title": [
+    "string"
+  ],
+  "WorksMessage.items.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.institution.acronym": [
+    "string"
+  ],
+  "WorksMessage.items.institution.department": [
+    "string"
+  ],
+  "WorksMessage.items.institution.place": [
+    "string"
+  ],
+  "WorksMessage.items.issn-type.value": [
+    "string"
+  ],
+  "WorksMessage.items.issue-title": [
+    "string"
+  ],
+  "WorksMessage.items.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.original-title": [
+    "string"
+  ],
+  "WorksMessage.items.place": [
+    "string"
+  ],
+  "WorksMessage.items.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.short-title": [
+    "string"
+  ],
+  "WorksMessage.items.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.subject": [
+    "string"
+  ],
+  "WorksMessage.items.subtitle": [
+    "string"
+  ],
+  "WorksMessage.items.title": [
+    "string"
+  ],
+  "WorksMessage.items.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.items.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.ISBN": [
+    "string"
+  ],
+  "WorksMessage.message.ISSN": [
+    "string"
+  ],
+  "WorksMessage.message.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.acronym": [
+    "string"
+  ],
+  "WorksMessage.message.alternative-id": [
+    "string"
+  ],
+  "WorksMessage.message.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.archive": [
+    "string"
+  ],
+  "WorksMessage.message.award": [
+    "string"
+  ],
+  "WorksMessage.message.container-title": [
+    "string"
+  ],
+  "WorksMessage.message.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.content-domain.domain": [
+    "string"
+  ],
+  "WorksMessage.message.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.department": [
+    "string"
+  ],
+  "WorksMessage.message.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.domain": [
+    "string"
+  ],
+  "WorksMessage.message.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.funder.award": [
+    "string"
+  ],
+  "WorksMessage.message.group-title": [
+    "string"
+  ],
+  "WorksMessage.message.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.institution.acronym": [
+    "string"
+  ],
+  "WorksMessage.message.institution.department": [
+    "string"
+  ],
+  "WorksMessage.message.institution.place": [
+    "string"
+  ],
+  "WorksMessage.message.issn-type.value": [
+    "string"
+  ],
+  "WorksMessage.message.issue-title": [
+    "string"
+  ],
+  "WorksMessage.message.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.ISBN": [
+    "string"
+  ],
+  "WorksMessage.message.items.ISSN": [
+    "string"
+  ],
+  "WorksMessage.message.items.accepted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.acronym": [
+    "string"
+  ],
+  "WorksMessage.message.items.alternative-id": [
+    "string"
+  ],
+  "WorksMessage.message.items.approved.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.archive": [
+    "string"
+  ],
+  "WorksMessage.message.items.award": [
+    "string"
+  ],
+  "WorksMessage.message.items.container-title": [
+    "string"
+  ],
+  "WorksMessage.message.items.content-created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.content-domain.domain": [
+    "string"
+  ],
+  "WorksMessage.message.items.content-updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.created.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.department": [
+    "string"
+  ],
+  "WorksMessage.message.items.deposited.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.domain": [
+    "string"
+  ],
+  "WorksMessage.message.items.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.free-to-read.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.free-to-read.end-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.free-to-read.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.funder.award": [
+    "string"
+  ],
+  "WorksMessage.message.items.group-title": [
+    "string"
+  ],
+  "WorksMessage.message.items.indexed.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.institution.acronym": [
+    "string"
+  ],
+  "WorksMessage.message.items.institution.department": [
+    "string"
+  ],
+  "WorksMessage.message.items.institution.place": [
+    "string"
+  ],
+  "WorksMessage.message.items.issn-type.value": [
+    "string"
+  ],
+  "WorksMessage.message.items.issue-title": [
+    "string"
+  ],
+  "WorksMessage.message.items.issued.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.original-title": [
+    "string"
+  ],
+  "WorksMessage.message.items.place": [
+    "string"
+  ],
+  "WorksMessage.message.items.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.short-title": [
+    "string"
+  ],
+  "WorksMessage.message.items.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.subject": [
+    "string"
+  ],
+  "WorksMessage.message.items.subtitle": [
+    "string"
+  ],
+  "WorksMessage.message.items.title": [
+    "string"
+  ],
+  "WorksMessage.message.items.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.items.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.license.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.license.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.original-title": [
+    "string"
+  ],
+  "WorksMessage.message.place": [
+    "string"
+  ],
+  "WorksMessage.message.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.short-title": [
+    "string"
+  ],
+  "WorksMessage.message.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.subject": [
+    "string"
+  ],
+  "WorksMessage.message.subtitle": [
+    "string"
+  ],
+  "WorksMessage.message.title": [
+    "string"
+  ],
+  "WorksMessage.message.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.message.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.original-title": [
+    "string"
+  ],
+  "WorksMessage.place": [
+    "string"
+  ],
+  "WorksMessage.posted.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.published-online.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.published-other.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.published-print.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.published.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.short-title": [
+    "string"
+  ],
+  "WorksMessage.start-date.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.start.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.subject": [
+    "string"
+  ],
+  "WorksMessage.subtitle": [
+    "string"
+  ],
+  "WorksMessage.title": [
+    "string"
+  ],
+  "WorksMessage.update-to.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.update-to.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ],
+  "WorksMessage.updated.date-parts": [
+    [
+      "integer"
+    ]
+  ]
+}

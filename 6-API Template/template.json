@@ -1,0 +1,17 @@
+{
+    "status": "string",
+    "message-type": "string",
+    "message-version": "string",
+    "message": {
+        "facets": {},
+        "total-results": "integer",
+        "items": [
+            
+        ],
+        "items-per-page": "integer",
+        "query": {
+            "start-index": "integer",
+            "search-terms": "string"
+        }
+    }
+}
